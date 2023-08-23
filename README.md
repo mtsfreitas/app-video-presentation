@@ -1,8 +1,12 @@
 # app-video-presentation
 
-Hackathon presentation
+Developed during hackathon events.
 
-Using Adobe Illustrator for screen and logo design. Adobe After Effects for animation. Adobe Premiere for final editing.
+Tools used:
+
+1. Adobe Illustrator
+2. Adobe After Effects
+3. Adobe Premiere
 
 ## Kudos App
 ![Kudos](https://github.com/mtsfreitas/app-video-presentation/assets/21324690/e5b56eea-aa27-4191-9690-16b1266c1a35)
